@@ -1,5 +1,3 @@
-# Classroom-Objects
-Our first AI Classroom object detection. Includes phone, tablet! etc. 
 # 🤖 โปรเจกต์ AI: นักสืบสิ่งของในห้องเรียน (Classroom Objects)
 ชื่อกลุ่ม: Chocolate Strawberry 
 ### 👥 สมาชิกในกลุ่ม
