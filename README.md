@@ -18,6 +18,10 @@
 
 https://teachablemachine.withgoogle.com/models/NpzqwyDUN/
 
+### 🔗 ลิงก์ Youtube Video
+
+https://youtu.be/nsncOb8lfiY?si=587WGIZwxUKM95td
+
 ธีมที่ 3: 'นักสืบสิ่งของในห้องเรียน" (Classroom Objects)
 * ﻿﻿Class ที่ต้องเทรน ปากกา / ยางลบ / บัตรนักเรียน (หรือของอื่นๆ ในกระเป๋า)
 * ﻿﻿ความสนุก: ต้องสลับกันเอาของมาวางใกล้-ไกลกล้อง เพื่อเทรนให้ AI จำวัตถุให้ได้แม่นยำ
